@@ -1,5 +1,13 @@
 # This is a simple project which generates different quotes on every click.
 
+
+# How to run?
+1. git clone https://github.com/hajra40/Random-Quote-Generator.git
+2. cd Random-Quote-Generator
+3. npm install
+4. npm run
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
